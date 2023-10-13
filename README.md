@@ -18,4 +18,6 @@
    <img src="https://github-readme-stats.vercel.app/api?username=pushpak90&theme=tokyonight" alt="pushpak90" width="49.6%" />
   
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpak90&theme=tokyonight" alt="pushpak90" width="49.6%" />
- [![Profile View](https://komarev.com/ghpvc/?username=pushpak90&color=green)]
+
+   <!--[![Profile View](https://komarev.com/ghpvc/?username=pushpak90&color=green)]-->
+ 
