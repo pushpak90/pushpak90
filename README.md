@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushpak Fasate</h1>
-<h3 align="center">A Junior Software Developer passionate about building scalable and efficient backend solutions</h3>
+<h3 align="center">A Software Developer passionate about building scalable and efficient backend solutions</h3>
 
 - 🌱 I’m currently working on ERP modules, REST APIs, and backend systems using C#, ASP.NET, Java, and Spring Boot.
 - 💼 I have experience developing and maintaining enterprise applications for educational institutions.
