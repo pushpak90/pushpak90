@@ -129,11 +129,11 @@ legacy modules to modern architectures such as **HTML-based reporting, modular A
 📱 **Phone:** *(optional)*   -->
 
 ---
-
+<!--
 <p align="center">
   <img src="https://img.shields.io/badge/Thank%20You%20for%20Visiting-00F0FF?style=for-the-badge" />
 </p>
-
+-->
 <p align="center">
   ⭐ *Have a great day & happy coding!* ⭐  
 </p>
