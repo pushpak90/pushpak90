@@ -32,7 +32,6 @@ I enjoy building efficient backend systems, improving performance, and transitio
 legacy modules to modern architectures such as **HTML-based reporting, modular APIs, and optimized database workflows**.
 
 ---
-
 # 🔧 Tech Stack  
 
 ## 🖥️ Backend Development
@@ -91,7 +90,7 @@ legacy modules to modern architectures such as **HTML-based reporting, modular A
   <img src="https://img.shields.io/badge/Unit_Testing-6A0DAD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/API_Design-1F6FEB?style=for-the-badge" />
 </p>
----
+
 
 # 📊 GitHub Stats 
 
