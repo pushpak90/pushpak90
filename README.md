@@ -1,6 +1,6 @@
 <!-- PROFESSIONAL ANIMATED HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=50&duration=5000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Pushpak+Fasate;Software+Developer;Backend+Developer+(Spring+Boot+%7C+.NET);Building+Scalable+%26+Efficient+Backend+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F0FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Pushpak+Fasate;Software+Developer;Backend+Developer+(Spring+Boot+%7C+.NET);Building+Scalable+%26+Efficient+Backend+Solutions" />
 </h1>
 
 <h3 align="center">A Software Developer passionate about backend development and scalable enterprise solutions</h3>
