@@ -113,15 +113,16 @@ legacy modules to modern architectures such as **HTML-based reporting, modular A
 
 </div>
 
----
 
+<!--
+---
 # 🏆 GitHub Achievements
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pushpak90&theme=tokyonight&no-frame=true&margin-w=10" />
 </div>
 
 ---
-
+-->
 # 🌐 Connect With Me  
 
 📧 **Email:** pushpakafasate90@gmail.com  
